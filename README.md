@@ -1,4 +1,4 @@
-# riverpod_example
+# flutter_riverpod_example
 Example of how to integrate **riverpod framework** into flutter's default counter application.
 
 ## Step by step
