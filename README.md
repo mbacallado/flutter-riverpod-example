@@ -1,7 +1,29 @@
-# flutter_riverpod_example
-Example of how to integrate **riverpod framework** into flutter's default counter application.
+# Flutter Riverpod – Minimal State Management Integration (2024)
 
-## Step by step
+This repository contains a **minimal and functional integration of Riverpod** into Flutter’s default counter app.
+
+It serves as an educational template for understanding how to set up and use Riverpod with code generation using `build_runner`.
+
+---
+
+## 🎯 Purpose
+
+To demonstrate how to refactor Flutter's default counter app to use **Riverpod's latest approach**, including annotations, code generation, and clean folder structure.
+
+---
+
+## ⚙️ Technologies used
+
+- Flutter 3.x
+- Dart.
+- Riverpod 2.6  
+- Riverpod Annotation.  
+- Riverpod Generator.
+- build_runner.
+
+---
+
+## 🚀 Getting started
 
 1. Install the **riverpod dependencies** in the **pubspec.yaml** (take into account the version at the time of installation).
 
@@ -113,8 +135,26 @@ Column(
         )
 ~~~
 
-With this, the riverpod framework is already integrated, as well as a basic functional example (because it is the default application that creates flutter using visual studio code commands).   
-For more documentation, please visit the official website: <https://riverpod.dev/>
+---
 
-I hope you found it useful!   
-Best regards,
+## ✅ Features demonstrated
+
+- ✅ Riverpod 2.6 with annotation-based syntax.
+- ✅ Clean folder structure (providers, shared).
+- ✅ Code generation via build_runner.
+- ✅ Replacing StatefulWidget with ConsumerStatefulWidget.
+- ✅ Readable and testable architecture.
+- ✅ Minimal but complete working example.
+
+---
+
+## 📚 Additional resources
+🔗 Official documentation: https://riverpod.dev
+
+---
+
+## 👨‍🏫 Author
+Developed by **Manuel Bacallado**.
+
+## 🔍 Keywords (for discoverability)
+Flutter · Dart · Riverpod · State Management · Clean Architecture · Educational Project · Learning Project.
